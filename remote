@@ -1,0 +1,28 @@
+Josh@JOSH-5800X MINGW64 /d/Dev/Sources/Pro/WCS/2024_POEC_Dotnet/S01 - Atelier GIT/wild-project (main)
+$ git remote add origin https://github.com/WCS-Joshua-Arus/wild-project.git
+
+Josh@JOSH-5800X MINGW64 /d/Dev/Sources/Pro/WCS/2024_POEC_Dotnet/S01 - Atelier GIT/wild-project (main)
+$ git remote
+origin
+
+Josh@JOSH-5800X MINGW64 /d/Dev/Sources/Pro/WCS/2024_POEC_Dotnet/S01 - Atelier GIT/wild-project (main)
+$ git remote -v
+origin  https://github.com/WCS-Joshua-Arus/wild-project.git (fetch)
+origin  https://github.com/WCS-Joshua-Arus/wild-project.git (push)
+
+Josh@JOSH-5800X MINGW64 /d/Dev/Sources/Pro/WCS/2024_POEC_Dotnet/S01 - Atelier GIT/wild-project (main)
+$ git remote rm origin
+
+Josh@JOSH-5800X MINGW64 /d/Dev/Sources/Pro/WCS/2024_POEC_Dotnet/S01 - Atelier GIT/wild-project (main)
+$ git remote -v
+
+Josh@JOSH-5800X MINGW64 /d/Dev/Sources/Pro/WCS/2024_POEC_Dotnet/S01 - Atelier GIT/wild-project (main)
+$ git remote add origin git@github.com:WCS-Joshua-Arus/wild-project.git
+
+Josh@JOSH-5800X MINGW64 /d/Dev/Sources/Pro/WCS/2024_POEC_Dotnet/S01 - Atelier GIT/wild-project (main)
+$ git remote -v
+origin  git@github.com:WCS-Joshua-Arus/wild-project.git (fetch)
+origin  git@github.com:WCS-Joshua-Arus/wild-project.git (push)
+
+Josh@JOSH-5800X MINGW64 /d/Dev/Sources/Pro/WCS/2024_POEC_Dotnet/S01 - Atelier GIT/wild-project (main)
+$
